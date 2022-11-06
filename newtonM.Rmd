@@ -1,0 +1,26 @@
+---
+title: "Newton method for solving the Parlange - Haverkamp 1D infiltration equation"
+author: Marcelo Bueno D.
+date: 
+output: html_document
+---
+
+***
+
+## Ambiente de sesión en RStudio
+
+``` {r, eval = TRUE, echo = FALSE}
+
+    xfun::session_info( 
+      
+      c('knitr', 'rmarkdown', 'xfun'), 
+      
+      dependencies = FALSE
+      
+      )
+
+
+```
+
+***
+
